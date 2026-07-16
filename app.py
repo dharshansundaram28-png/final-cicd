@@ -4,6 +4,10 @@ def add(a, b):
 def multiply(a, b):
     return a * b
 
+def subtract(a, b):
+    return a - b
+
 print("App running!")
 print(add(5, 3))
 print(multiply(4, 3))
+print(subtract(10, 3))
